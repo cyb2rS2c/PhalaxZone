@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 
 Run the main program:
 ```bash
-sudo python3 phalaxzone.py
+chmod +x phx.sh; sudo python3 phalaxzone.py
 ```
 ### Example
 
