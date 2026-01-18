@@ -1,6 +1,6 @@
 #!/bin/bash
 git clone https://github.com/cyb2rS2c/PhalaxZone.git
-cd PhalaxZone/cd phalaxzone
+cd PhalaxZone/phalaxzone
 if [ ! -d "myenv" ]; then
     python3 -m venv myenv
 fi
