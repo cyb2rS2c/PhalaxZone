@@ -37,6 +37,7 @@ chmod +x phx.sh; sudo python3 phalaxzone.py
 ---
 ## Automatic setup
 ```bash
+curl -LO raw.githubusercontent.com/cyb2rS2c/PhalaxZone/refs/heads/main/setup.sh
 chmod +x setup.sh;./setup.sh
 ```
 ---
