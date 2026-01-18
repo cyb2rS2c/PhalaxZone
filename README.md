@@ -14,7 +14,7 @@
 ---
 
 ## Installation
-
+### Method 1 (Manually)
 Clone the repository:
 
 ```bash
@@ -33,6 +33,13 @@ Run the main program:
 ```bash
 chmod +x phx.sh; sudo python3 phalaxzone.py
 ```
+### Method 2 (Automatically)
+---
+## Automatic setup
+```bash
+chmod +x setup.sh;./setup.sh
+```
+---
 ### Example
 
 1) Start DDoS detector: Monitors network traffic on the specified interface (default: wlan0).
